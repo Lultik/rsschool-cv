@@ -3,4 +3,4 @@ Resume
 
 #******Mikhail Stankevich**
 
-lultik.github.io/rsschool-cv-html
+https://lultik.github.io/rsschool-cv/
